@@ -74,3 +74,9 @@ export default defineConfig([
   },
 ])
 ```
+
+## Configuração
+
+1. Copie o arquivo `.env.example` para `.env`:
+
+2. Preencha suas variáveis de ambiente no `.env`
